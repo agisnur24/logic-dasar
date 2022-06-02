@@ -1,0 +1,55 @@
+package main
+
+import (
+	"fmt"
+	"tugas-logic/logic01"
+	"tugas-logic/logic02"
+)
+
+func main() {
+	fmt.Println("Logic 01 Soal 01 - 10")
+	fmt.Println("\n")
+	logic01.Logic01Soal01(10)
+	fmt.Println("\n")
+	logic01.Logic01Soal02(10)
+	fmt.Println("\n")
+	logic01.Logic01Soal03(10)
+	fmt.Println("\n")
+	logic01.Logic01Soal04(10)
+	fmt.Println("\n")
+	logic01.Logic01Soal05(15)
+	fmt.Println("\n")
+	logic01.Logic01Soal06(15)
+	fmt.Println("\n")
+	logic01.Logic01Soal07(10)
+	fmt.Println("\n")
+	logic01.Logic01Soal08(10)
+	fmt.Println("\n")
+	logic01.Logic01Soal09(12)
+	fmt.Println("\n")
+	logic01.Logic01Soal10(12)
+	fmt.Println("\n")
+
+	fmt.Println("\n")
+	fmt.Println("Logic 02 Soal 01 - 10")
+	fmt.Println("\n")
+	logic02.Logic02Soal01(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal02(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal03(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal04(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal05(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal06(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal07(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal08(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal09(9)
+	fmt.Println("\n")
+	logic02.Logic02Soal10(9)
+}
